@@ -24,7 +24,8 @@
 | Languages | Tools | Design |
 |----------|--------|--------|
 | 🌟 HTML/CSS | 🧊 Git & GitHub | 🎨 Canva / Figma |
-| ☕ JavaScript | 🔧 VS Code | ✏ UI/UX | 🐍 Python | AI ML
+| ☕ JavaScript | 🔧 VS Code | ✏ UI/UX | 
+| 🐍 Python | 
 
 ---
 

@@ -1,8 +1,8 @@
 ##  Hi! I'm *Bably Rangpi* U_U
 
->   
+ Just a student who codes, designs, and 💤 while collecting bugs like trophies. 
 
-🐾 I’m a **developer in progress**, currently exploring  
+>🐾 I’m a **developer in progress**, currently exploring  
 **Software Development | UI/UX | Open Source | Data Science**  
 
 ---
@@ -10,7 +10,6 @@
 ### 🎈 About Me
 - 🎓 CSE student.
 - ✨ Loves: aesthetics, clean UI & cute stuff
-- 🌻 Fun fact: I add emojis everywhere
 
 ---
 

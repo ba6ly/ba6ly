@@ -23,9 +23,9 @@
 ### ✦ Tech Stack
 | Languages | Tools | Design |
 |----------|--------|--------|
-| 𖦹 HTML/CSS | 🧊 Git & GitHub | 🎨 Canva / Figma |
-| ☕ JavaScript | 🔧 VS Code | ✏ UI/UX | 
-| 🐍 Python | 
+| HTML/CSS | Git & GitHub |  Canva / Figma |
+| JavaScript |  VS Code |  UI/UX | 
+|  Python | 
 
 ---
 
@@ -36,8 +36,8 @@
 ---
 
 <p align="center">
-  <img src="YOUR_CUTE_PNG_URL" height="120"/>
-  <img src="YOUR_SECOND_PNG_URL" height="120"/>
+  <img src="PNG_URL" height="120"/>
+  <img src="PNG_URL2" height="120"/>
 </p>
 
 ---

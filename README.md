@@ -8,8 +8,8 @@
 ---
 
 ### ✦ About Me
-- 🍥 CSE student.
-- 🍥 Loves: aesthetics, clean UI & cute stuff
+🍥 CSE student.
+🍥 Loves: aesthetics, clean UI & cute stuff
 
 ---
 
